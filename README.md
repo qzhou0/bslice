@@ -12,7 +12,7 @@ SCFilePath="<PATH_TO_SRC_FILES>";
 classNames=repoClasses();
 sliceMany(classNames);
 ```
-For the path to source files at SCFilePath, you just need the path which can be followed by e.g. /java/util/ArrayList from the class name Ljava/util/ArrayList.
+For the path to source files at SCFilePath, you just need the path which can be followed by e.g. /java/util/ArrayList from the class name Ljava/util/ArrayList. Currently, the code just recognizes files ending with .java; but it be be changed easily if needed. 
 
 - Classes which cannot be sliced will be recorded in an id_errClasses.txt file, they mostly will be interfaces or abstract. 
 
