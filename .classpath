@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/com.ibm.wala.cast.js-1.5.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.jdt.astview">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.equinox">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.clipse.osgi">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.core.contenttype">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.core.jobs">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.core.resources">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.core.runtime">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.core.tools.resources">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.equinox.common">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.equinox.preferences">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="org.eclipse.jdt.core">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/com.ibm.wala.cast-1.5.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/com.ibm.wala.shrike-1.5.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.core.contenttype_3.7.400.v20190624-1144.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.core.jobs_3.10.600.v20191122-2104.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.core.resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.core.tools.resources_1.4.0.200607141315.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.equinox.common_3.10.500.v20190815-1535.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.equinox.preferences_3.7.500.v20190815-1535.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/org.eclipse.osgi_3.15.0.v20190830-1434.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/dropins/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/dropins/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/dropins/org.eclipse.jdt.core-3.8.0.v_c18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-06/eclipse/dropins/org.eclipse.core.runtime-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-06/eclipse/dropins/org.eclipse.jdt.astview_1.4.200.201912041606.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/com.ibm.wala.core-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qzstu/eclipse/java-2019-12/eclipse/plugins/com.ibm.wala.util-1.5.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
